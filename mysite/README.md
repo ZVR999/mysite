@@ -1,0 +1,2 @@
+# mysite
+ Test django project
